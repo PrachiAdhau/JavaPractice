@@ -9,3 +9,4 @@ public void data()
 	{
 		System.out.println("info");
 }
+}
